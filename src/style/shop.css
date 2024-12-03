@@ -23,6 +23,8 @@
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
     border-radius: 8px;
+    height: 220px;
+    width: 250px;
   }
   
   .shop-heading {

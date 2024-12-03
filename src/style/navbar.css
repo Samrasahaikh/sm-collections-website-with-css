@@ -20,12 +20,21 @@
 
 /* Navbar Logo */
 .navbar-logo {
-  font-size: 2rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
   font-weight: bold;
   color: #046883;
   text-decoration: none;
   font-family: "serif";
 }
+@media (min-width: 768px) {
+  .navbar-logo{
+    font-size: 2rem;
+    font-weight: bold;
+  }
+}
+
 
 /* Navbar Links */
 .navbar-links {
@@ -55,13 +64,15 @@
   cursor: pointer;
 }
 
+
 .navbar-icons .cart-icon:hover {
   color: #06baec;
 }
 
 /* Hamburger Menu */
 .hamburger-menu-icon {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: bold;
   cursor: pointer;
   color: #046883;
   transition: transform 0.3s, color 0.3s;
