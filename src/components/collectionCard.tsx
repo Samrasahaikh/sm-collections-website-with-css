@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import "@/style/CollectionCard.css";
+import "@/style/collectionCard.css";
 
 interface propsType {
     img: string;

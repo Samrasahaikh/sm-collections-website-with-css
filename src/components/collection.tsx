@@ -1,7 +1,7 @@
 import { Whisper } from "next/font/google";
 import CategoryCard from "./collectionCard";
 import React from "react";
-import "@/style/Collection.css";
+import "@/style/collection.css";
 
 // Initializing the Whisper font with specific subsets and weight
 const whisper = Whisper({ subsets: ["latin"], weight: ["400"] });

@@ -7,7 +7,7 @@ import Image from "next/image";
 import { AiFillStar, AiOutlineHeart, AiOutlineShoppingCart, AiOutlineStar } from "react-icons/ai";
 import { MdCompareArrows } from "react-icons/md";
 import { FaFacebookSquare, FaGithub, FaInstagramSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
-import "@/style/Page.css"; // Import the custom CSS
+import "@/style/page.css"; // Import the custom CSS
 
 export interface IProduct {
   id: number;
