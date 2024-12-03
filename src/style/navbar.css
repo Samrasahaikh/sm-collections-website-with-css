@@ -58,7 +58,7 @@
 /* Navbar Icons */
 .navbar-icons {
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   font-size: 2rem;
   color: #046883;
   cursor: pointer;
@@ -71,6 +71,10 @@
 
 /* Hamburger Menu */
 .hamburger-menu-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: space-between;
   font-size: 2rem;
   font-weight: bold;
   cursor: pointer;
@@ -81,6 +85,7 @@
 .hamburger-menu-icon:hover {
   transform: scale(1.1);
   color: #06baec;
+  transition: transform 0.3s, color 0.3s;
 }
 
 /* Sidebar */
