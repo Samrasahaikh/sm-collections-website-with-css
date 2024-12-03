@@ -13,7 +13,7 @@ const Hero = () => {
         className="hero-image"
         src="/banner1.jpg"
         width={1500}
-        height={900}
+        height={1000}
         alt="Hero Image"
       />
 

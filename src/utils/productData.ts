@@ -250,14 +250,6 @@ const ProductData =[
     },
     {
         id: 31,
-        img: "/jewellery5.jpg",
-        name: "Jewellery Gift Set",
-        price: 30.00,
-        category: ["Jewellery's"],
-        sale: true,
-    },
-    {
-        id: 32,
         img: "/perfume1.jpg",
         name: "Aqua Marine",
         price: 30.00,
@@ -265,7 +257,7 @@ const ProductData =[
         sale: true,
     },
     {
-        id: 33,
+        id: 32,
         img: "/perfume2.jpg",
         name: "Dream Angels Wings Perfume",
         price: 35.00,
@@ -273,7 +265,7 @@ const ProductData =[
         sale: true,
     },
     {
-        id: 34,
+        id: 33,
         img: "/perfume3.jpg",
         name: "Best female perfumes",
         price: 32.00,
@@ -281,7 +273,7 @@ const ProductData =[
         sale: false,
     },
     {
-        id: 35,
+        id: 34,
         img: "/perfume4.jpg",
         name: "Elixir-perfume Men",
         price: 35.00,
@@ -289,7 +281,7 @@ const ProductData =[
         sale: true,
     },
     {
-        id: 36,
+        id: 35,
         img: "/perfume5.jpg",
         name: "Flore De Paris Eau De Perfume",
         price: 33.00,
