@@ -23,7 +23,7 @@
 /* Overlay container for heading, description, and button */
 .hero-overlay {
   position: absolute;
-  top: 40%;
+  top: 38%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: rgba(0, 0, 0, 0.5);
