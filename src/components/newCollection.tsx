@@ -7,7 +7,7 @@ import "@/style/newCollection.css"; // Import the custom CSS file
 
 const whisper = Whisper({ subsets: ["latin"], weight: ["400"] });
 
-const tabsData = ["All", "Men's Shoes", "Watche's", "Woman's shoes", "Kid's shoes", "Clothe's", "Jewellery's", "Perfume's"];
+const tabsData = ["All", "Men's Shoes", "Watche's", "Woman's shoes", "Kid's shoes", "Clothe's", "Jewelry's", "Perfume's"];
 
 const NewCollection = () => {
   const [selectedTab, setSelectedTab] = useState(0);
