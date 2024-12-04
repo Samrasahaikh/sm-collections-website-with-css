@@ -7,7 +7,7 @@ const data = [
     {
         img: "/icon.jpg", // Image URL for the first feature
         title: "Elegantly Curated", // Title of the first feature
-        desc: "Shoes, Dresses, Jewelry, Perfumes for You", // Description of the first feature
+        desc: "Shoes, Dresses, Jewelry, Perfumes", // Description of the first feature
     },
     {
         img: "/icon-shipping.jpg",

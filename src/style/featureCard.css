@@ -21,7 +21,7 @@
   
   /* Styling for the title */
   .featureTitle {
-    font-size: 1.25rem; /* Equivalent to text-xl */
+    font-size: 1rem; /* Equivalent to text-xl */
     font-weight: 500; /* Equivalent to font-medium */
     text-transform: uppercase; /* Converts text to uppercase */
   }
